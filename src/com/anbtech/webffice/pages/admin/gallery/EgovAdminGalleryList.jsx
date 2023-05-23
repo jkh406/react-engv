@@ -12,7 +12,7 @@ import { itemIdxByPage } from '@utils/calc';
 
 function EgovAdminGalleryList(props) {
     console.group("EgovAdminGalleryList");
-    console.log("[Start] EgovAdminGalleryList ------------------------------");
+    console.log("[Start] EgovAdminGalleryLis12312312t ------------------------------");
     console.log("EgovAdminGalleryList [props] : ", props);
 
     const location = useLocation();
