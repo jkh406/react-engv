@@ -10,7 +10,7 @@ import EgovAttachFile from '@components/EgovAttachFile';
 
 function EgovAdminScheduleDetail(props) {
     console.group("EgovAdminScheduleDetail");
-    console.log("[Start] EgovAdminScheduleD123123123123213etail ------------------------------");
+    console.log("[Start] EgovAdminScheduleD12312312223123213etail ------------------------------");
     console.log("EgovAdminScheduleDetail [props] : ", props);
 
     const navigate = useNavigate();
