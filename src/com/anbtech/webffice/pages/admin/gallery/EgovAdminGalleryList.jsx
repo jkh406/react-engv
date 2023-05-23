@@ -12,7 +12,11 @@ import { itemIdxByPage } from '@utils/calc';
 
 function EgovAdminGalleryList(props) {
     console.group("EgovAdminGalleryList");
+<<<<<<< .merge_file_RqXbI5
     console.log("[Start] EgovAdminGalleryLis12312312t ------------------------------");
+=======
+>>>>>>> .merge_file_9X44VC
+    console.log("[Start] EgovAdminGalleryL123123ist ------------------------------");
     console.log("EgovAdminGalleryList [props] : ", props);
 
     const location = useLocation();
