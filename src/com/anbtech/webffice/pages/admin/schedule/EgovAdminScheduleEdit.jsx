@@ -14,7 +14,7 @@ import 'react-datepicker/dist/react-datepicker.css';
 
 function EgovAdminScheduleEdit(props) {
     console.group("EgovAdminScheduleEdit");
-    console.log("[Start] EgovAdminScheduleEdit ------------------------------");
+    console.log("[Start] EgovAdminSche12312312duleEdit ------------------------------");
     console.log("EgovAdminScheduleEdit [props] : ", props);
 
     const navigate = useNavigate();
