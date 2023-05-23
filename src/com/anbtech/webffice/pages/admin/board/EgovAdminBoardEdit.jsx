@@ -17,7 +17,7 @@ function EgovAdminBoardEdit(props) {
     const location = useLocation();
 	const checkRef = useRef([]);
 	
-    console.log("EgovAdminBoardEdit [location] : ", location);
+    console.log("EgovAdminBoa123123rdEdit [location] : ", location);
 
     const replyPosblAtRadioGroup = [{ value: "Y", label: "가능" }, { value: "N", label: "불가능" }];
     const fileAtchPosblAtRadioGroup = [{ value: "Y", label: "가능" }, { value: "N", label: "불가능" }];
