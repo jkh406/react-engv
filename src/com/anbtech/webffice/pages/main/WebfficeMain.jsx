@@ -6,7 +6,11 @@ import URL from '@constants/url';
 
 function WebfficeMain(props) {
     console.group("WebfficeMain");
+<<<<<<< HEAD
     console.log("[Start] Webffice123123123Ma22in ------------------------------");
+=======
+    console.log("[Start] Webffice123121113123Main ------------------------------");
+>>>>>>> f930334aac903d5cef3deb2145988784ec7a9e5b
     console.log("WebfficeMain [props] : ", props);
 
     const location = useLocation();
