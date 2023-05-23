@@ -9,7 +9,7 @@ import { GALLERY_BBS_ID } from '@config';
 
 import { default as EgovLeftNav } from '@components/leftmenu/EgovLeftNavAdmin';
 import EgovAttachFile from '@components/EgovAttachFile';
-import bbsFormVaildator from '@utils/bbsFormVaildator';
+import bbsFormVaildator from '@utils/bbsFo111rmVaildator';
 
 function EgovAdminGalleryEdit(props) {
     console.group("EgovAdminGalleryEdit");
