@@ -45,6 +45,7 @@ function EgovIntroService() {
                             <li>MVC :  MVC 디자인 패턴을 적용하여 사용자 화면을 개발할 수 있도록 MVC 기반 구조를 제공한다.</li>
                             <li>Security : 웹 응용프로그램 작성 시 발생될 수 있는 웹 12312313보안상의 취약점(XSS, SQL Injection 등)에 대응하기 위한 기능을 제공한다.</li>
                             <li>UI Adaptor : 화면 레이어의 구현 방식에 asdfsadfsdf따라 업무로직 레이어가 변경되는 것을 막기 위해서, 업무처리 Layer에서 사용할 데이터 타입을 정의하고, 화면 레이어에서 사용하는 in/out parameter를 해당 구현 
+                            <li>UI Adaptor : 화면 레이어의 구현 방식에 따라 업무로직 레이어가 변경되는 것을 막기 위해서, 업무처리 Layer에서 사용할 데이터 타입을 정의하고, 화면 레이어에서 사용하는 in/out parameter를 해당 구현 
                                 방식에 맞게 변환해주는 기능 제공한다.</li>
                         </ul>
                     </div>
