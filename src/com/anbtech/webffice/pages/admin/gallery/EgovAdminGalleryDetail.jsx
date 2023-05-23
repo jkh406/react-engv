@@ -14,7 +14,7 @@ import EgovImageGallery from '@components/EgovImageGallery';
 function EgovAdminGalleryDetail(props) {
     console.groupEnd("EgovAdminGalleryDetail");
     console.log("------------------------------");
-    console.log("EgovAdminGalleryDetail [props] : ", props);
+    console.log("EgovAdminGalleryDetai123l [props] : ", props);
 
     const navigate = useNavigate();
     const location = useLocation();
