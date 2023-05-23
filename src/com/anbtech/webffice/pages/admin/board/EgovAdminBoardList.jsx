@@ -11,7 +11,7 @@ import { itemIdxByPage } from '@utils/calc';
 
 function EgovAdminBoardList(props) {
     console.group("EgovAdminBoardList");
-    console.log("[Start] EgovAdminBoardList ------------------------------");
+    console.log("[Start] EgovAdminBoard13123List ------------------------------");
     console.log("EgovAdminBoardList [props] : ", props);
 
     const location = useLocation();
