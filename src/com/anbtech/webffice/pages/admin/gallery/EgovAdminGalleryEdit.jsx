@@ -18,7 +18,7 @@ function EgovAdminGalleryEdit(props) {
 
     const navigate = useNavigate();
     const location = useLocation();
-    console.log("EgovAdminGalleryEdit [location] : ", location);
+    console.log("EgovAdminGalleryEdi111t [location] : ", location);
 
     const bbsId = location.state?.bbsId || GALLERY_BBS_ID;
     const nttId = location.state?.nttId || "";
