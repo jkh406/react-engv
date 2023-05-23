@@ -18,7 +18,7 @@ function EgovAdminGalleryDetail(props) {
 
     const navigate = useNavigate();
     const location = useLocation();
-    console.log("EgovAdminGalleryDetail [location] : ", location);
+    console.log("EgovAdminGalleryDetail [lo333cation] : ", location);
 
     const bbsId = location.state.bbsId || GALLERY_BBS_ID;
     const nttId = location.state.nttId;
