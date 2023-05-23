@@ -7,7 +7,7 @@ import URL from '@constants/url';
 
 function WebfficeLogin(props) {
     console.group("WebfficeLogin");
-    console.log("[Start] WebfficeLogin ------------------------------");
+    console.log("[Start] WebfficeLogin ----------------test--------------");
     console.log("WebfficeLogin [props] : ", props);
 
     const onChangeLogin = (user) => {
