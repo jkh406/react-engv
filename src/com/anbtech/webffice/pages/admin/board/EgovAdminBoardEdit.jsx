@@ -10,7 +10,11 @@ import EgovRadioButtonGroup from '@components/EgovRadioButtonGroup';
 
 function EgovAdminBoardEdit(props) {
     console.group("EgovAdminBoardEdit");
+<<<<<<< HEAD
     console.log("[Start] EgovAdmi123123nBoard111Edit ------------------------------");
+=======
+    console.log("[Start] EgovAdmi123111123nBoardEdit ------------------------------");
+>>>>>>> 6764c2d (333)
     console.log("EgovAdminBoardEdit [props] : ", props);
 
     const navigate = useNavigate();
